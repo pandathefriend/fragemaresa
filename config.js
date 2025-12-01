@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['🕵🏼‍♀️', '🕵🏼‍♂️', '🕵🏼', '❔', '👀'],  // Heart emojis
-        bears: ['💭', '💜']                       // Cute bear emojis
+        bears: ['💭', '🕵🏼‍♂️']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -57,10 +57,10 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#B1B2FF",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#EEF1FF",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#D2DAFF",     // Button color (should stand out against the background)
-        buttonHover: "#AAC4FF",          // Button hover color (slightly lighter than buttonBackground)
+        backgroundStart: "#EFECE3",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#8FABD4",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#4A70A9",     // Button color (should stand out against the background)
+        buttonHover: "#4A70A9",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#393E46"             // Text color (make sure it's readable!)
     },
 
