@@ -57,18 +57,18 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#EFECE3",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#000000",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#4A70A9",     // Button color (should stand out against the background)
-        buttonHover: "#4A70A9",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#393E46"             // Text color (make sure it's readable!)
+        backgroundStart: "#696FC7",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#6D94C5",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#393E46",     // Button color (should stand out against the background)
+        buttonHover: "#393E46",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#F5EFE6"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
     // Adjust these if you want faster/slower animations
     animations: {
         floatDuration: "20s",           // How long it takes hearts to float up (10-20s recommended)
-        floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
+        floatDistance: "30px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.0         // Size of heart explosion effect (1.2-2.0 recommended)
     },
