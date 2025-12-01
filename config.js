@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Jeeeeeiiiih, du machst mich zur glücklichsten Person überhaupt",
-        message: "Ich hoffe du weißt wie unfassbar glücklich du mich machst, ich erzähle es dir aber gerne in aller Länge",
+        title: "ihr habt heute zumindest eine Person zur glücklichsten Person überhaupt gemacht!!!",
+        message: "Maresa, ich hoffe du weißt wie unfassbar glücklich du mich machst, ich erzähle es dir aber gerne in aller Länge",
         emojis: "❤️💜"  // These will bounce around
     },
 
