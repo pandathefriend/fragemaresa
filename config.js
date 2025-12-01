@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Liebe Rätselnden",
+    valentineName: "Liebe Rätselnden...",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Habt ihr schon alle wichtigen Fragen des Abends beantwortet?",                                    // First interaction
+            text: "habt ihr schon alle wichtigen Fragen des Abends beantwortet?",                                    // First interaction
             yesBtn: "Auf jeden Fall",                                             // Text for "Yes" button
             noBtn: "Ich denke schon",                                               // Text for "No" button
             secretAnswer: "Vielleicht doch nicht ..."           // Secret hover message
         },
         second: {
-            text: "Wie könnte dich die Person neben dir nerven, wenn sie es wirklich probieren würde?",                          // For the love meter
+            text: "wie sehr könnte dich die Person neben dir nerven, wenn sie es wirklich probieren würde?",                          // For the love meter
             startText: "Curser bewegen um zu starten",                                   // Text before the percentage
             nextBtn: "Das ist meine finale Antwort!"                                         // Text for the next button
         },
