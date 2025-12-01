@@ -25,7 +25,7 @@ const CONFIG = {
             text: "habt ihr schon alle wichtigen Fragen des Abends beantwortet?",                                    // First interaction
             yesBtn: "Auf jeden Fall!",                                             // Text for "Yes" button
             noBtn: "Ich denke schon...?",                                               // Text for "No" button
-            secretAnswer: "Vielleicht doch nicht ..."           // Secret hover message
+            secretAnswer: "VIELLEICHT DOCH NICHT....????"           // Secret hover message
         },
         second: {
             text: "wie sehr könnte dich die Person neben dir nerven, wenn sie es wirklich probieren würde?",                          // For the love meter
