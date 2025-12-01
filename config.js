@@ -28,7 +28,7 @@ const CONFIG = {
             secretAnswer: "VIELLEICHT DOCH NICHT....????"           // Secret hover message
         },
         second: {
-            text: "wie sehr könnte dich die Person neben dir nerven, wenn sie es wirklich probieren würde?",                          // For the love meter
+            text: "wie sehr (in %) könnte dich die Person neben dir nerven, wenn sie es wirklich probieren würde?",                          // For the love meter
             startText: "Curser bewegen um zu starten",                                   // Text before the percentage
             nextBtn: "Das ist meine finale Antwort!"                                         // Text for the next button
         },
