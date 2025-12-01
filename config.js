@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Das ist meine finale Antwort!"                                         // Text for the next button
         },
         third: {
-            text: "Mal ganz davon abgesehen ob ich eine Nervensäge bin oder nicht ... willst du dass ich deine Nervensäge bin?", // The big question!
+            text: "mal ganz davon abgesehen ob die andere Person eine Nervensäge ist oder nicht ... Maresa, dreh dich bitte zu mir und drücke den Button nachdem ich dich etwas gefragt habe?", // The big question!
             yesBtn: "Ja!",                                             // Text for "Yes" button
             noBtn: "Nein"                                                 // Text for "No" button
         }
