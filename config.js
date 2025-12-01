@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Liebe Rätselnden...",
+    valentineName: "Liebe Rätselnden ...",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -23,8 +23,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "habt ihr schon alle wichtigen Fragen des Abends beantwortet?",                                    // First interaction
-            yesBtn: "Auf jeden Fall",                                             // Text for "Yes" button
-            noBtn: "Ich denke schon",                                               // Text for "No" button
+            yesBtn: "Auf jeden Fall!",                                             // Text for "Yes" button
+            noBtn: "Ich denke schon...?",                                               // Text for "No" button
             secretAnswer: "Vielleicht doch nicht ..."           // Secret hover message
         },
         second: {
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Das ist meine finale Antwort!"                                         // Text for the next button
         },
         third: {
-            text: "mal ganz davon abgesehen ob die andere Person eine Nervensäge ist oder nicht ... Maresa, dreh dich bitte zu mir und drücke den Button nachdem ich dich etwas gefragt habe?", // The big question!
+            text: "mal ganz davon abgesehen, ob die andere Person eine Nervensäge ist oder nicht ... Maresa, dreh dich bitte zu mir und drücke den Button nachdem ich dich etwas gefragt habe.", // The big question!
             yesBtn: "Ja!",                                             // Text for "Yes" button
             noBtn: "Nein"                                                 // Text for "No" button
         }
