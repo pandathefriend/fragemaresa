@@ -88,12 +88,12 @@ body {
 
 .secret-answer {
     position: fixed;
-    bottom: 20px;
-    right: 20px;
+    bottom: 40px;
+    right: 40px;
     margin-top: 0;
-    opacity: 0.2;
-    transition: opacity 0.3s;
-    transform: scale(0.7);
+    opacity: 0.4;
+    transition: opacity 0.4s;
+    transform: scale(1.0);
     z-index: 2;
     animation: subtle-hint 2s infinite alternate;
     animation-delay: 5s;
