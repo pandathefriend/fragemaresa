@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "ihr habt heute zumindest eine Person zur glücklichsten Person überhaupt gemacht!!!",
         message: "Maresa, ich hoffe du weißt wie unfassbar glücklich du mich machst, ich erzähle es dir aber gerne in aller Länge",
-        emojis: "❤️💜"  // These will bounce around
+        emojis: "💐❤️🌹💜🪻💐"  // These will bounce around
     },
 
     // Color scheme for the website
